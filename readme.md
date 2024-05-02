@@ -3,12 +3,15 @@
 Atualmente estou trabalhando como estagiário, fazendo Automações utilizando Python e também aplicações web com JavaScript e React JS.
 Sou apaixonado por programação, e estou sempre em busca de aprender mais e mais.
 
+<br><br>
 
 <a href="#">
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
 </a>
 
-Skills
+### Skills
+
+<br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
@@ -22,3 +25,8 @@ Skills
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=000000&logo=python&logoColor=ffffff)
+
+
+<br><br><br><br>
+
+<hr>
