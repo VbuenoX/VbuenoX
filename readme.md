@@ -2,8 +2,7 @@
 
 #### I am a FrontEnd Developer
 
-Atualmente estou trabalhando como estagiário, fazendo Automações utilizando Python e também aplicações web com JavaScript e React JS.
-Sou apaixonado por programação, e estou sempre em busca de aprender mais e mais.
+Meu nome é Vitor Bueno, tenho 21 anos, e possuo um forte desejo de obter experiência profissional, trocar conhecimentos e aprimorar minhas habilidades. Estou cursando Ciências da Computação no 7° período, sou desenvolvedor FullStack, utilizando tecnologias voltadas para JavaScript, e WordPress. Atualmente sou freelancer como FrontEnd Developer. Desenvolvo interfaces modernas, concentrado em performance, animações, responsividade e SEO.
 
 <br>
 
